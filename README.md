@@ -1,5 +1,13 @@
 # blockchain_class
  Blockchain Teaching: How it works. How ethereum works. How to apply Blockchain on a daily basis. Creating the first blockchain.
 
-
-<p> Tests</p>
+<h1>Desenvolvimento</h1>
+<p>BlockChain desenvolvida em Node.Js</p>
+<h2>
+Blockchain Teaching:
+How it works.
+How ethereum works.
+How to apply Blockchain on a daily basis.
+Creating the first blockchain.<h2>
+ <span>Rogério Sandro Pereira Juniro</span>
+ <span>https://www.instagram.com/_rogerio.junior</span>
