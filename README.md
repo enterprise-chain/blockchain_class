@@ -9,5 +9,5 @@ How it works.
 How ethereum works.
 How to apply Blockchain on a daily basis.
 Creating the first blockchain.<h2>
- <span>Rogério Sandro Pereira Juniro</span>
- <span>https://www.instagram.com/_rogerio.junior</span>
+ <span>Rogério Sandro Pereira Junior</span>
+ <a>https://www.instagram.com/_rogerio.junior</a>
